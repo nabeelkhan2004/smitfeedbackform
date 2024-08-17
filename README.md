@@ -1,4 +1,4 @@
-<u><h1>Project: Feedback Form</h1><u>
+<h1><u>Project: Feedback Form</u></h1>
 
 <h3>Mavricks</h3>
 Nabeel : 140544 (Team Lead)<br>
